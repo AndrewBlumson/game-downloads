@@ -1,0 +1,48 @@
+[
+  {
+    "slug": "codexgun",
+    "name": "CodexGun",
+    "edition": "Mac public beta",
+    "headline": "Pilot. Fight. Rescue.",
+    "description": "Take your ship into orbital arenas, battle bosses and bring the survivors home. A native Rust arcade shooter, ready to play offline on your Mac.",
+    "shortDescription": "Orbital arenas. Boss battles. Survivors to bring home.",
+    "version": "0.1.1",
+    "beta": 2,
+    "platform": "Apple Silicon Mac",
+    "platformShort": "Apple Silicon",
+    "minimumOS": "macOS 13 or later",
+    "hardware": "M1 or later",
+    "fileSizeBytes": 58041110,
+    "sha256": "623e344a6ce1994421f0371f22a279c317a37de6b9a8ff03b3dce078bbc0b985",
+    "downloadUrl": "https://github.com/AndrewBlumson/game-downloads/releases/download/codexgun-v0.1.1-beta.2/CodexGun-0.1.1-beta.2-Apple-Silicon.dmg",
+    "checksumUrl": "https://github.com/AndrewBlumson/game-downloads/releases/download/codexgun-v0.1.1-beta.2/SHA256SUMS.txt",
+    "releaseUrl": "https://github.com/AndrewBlumson/game-downloads/releases/tag/codexgun-v0.1.1-beta.2",
+    "icon": "/assets/codexgun/codexgun-icon.png",
+    "iconAlt": "CodexGun spacecraft flying through a cyan-lit orbital arena",
+    "downloadEnabled": true,
+    "features": [
+      {
+        "title": "Made for your Mac.",
+        "description": "A native Rust game for Apple Silicon. Download it, install it and make yourself at home."
+      },
+      {
+        "title": "Take it offline.",
+        "description": "No browser tab needed. Once installed, the game is playable without an internet connection."
+      },
+      {
+        "title": "Help shape what’s next.",
+        "description": "This is a public beta. Play a few levels and share what works — and what needs another look."
+      }
+    ],
+    "releaseSummary": "Beta 2 extends Pressure hazards across all five sectors, adds clearer timing and rescue guidance, and keeps developer tools out of the public build.",
+    "wordmark": {
+      "src": "/assets/codexgun/codexgun-wordmark.png",
+      "alt": "CodexGun",
+      "width": 1350,
+      "height": 200
+    },
+    "launchInstruction": "Press Enter to start. The menu shows the controls.",
+    "compatibilityNote": "Compatibility has been tested on Andrew’s Mac; other supported Macs have not yet been verified.",
+    "signingNote": "The game is signed by Adevious Ltd and notarised by Apple. Notarisation checks software security; it is not a gameplay review."
+  }
+]
