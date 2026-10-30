@@ -1,0 +1,7 @@
+public/
+.vercel/
+reports/
+.DS_Store
+node_modules/
+*.dmg
+.env*
